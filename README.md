@@ -7,4 +7,4 @@ https://github.com/phoi5675/kauNotifier 를 베이스로 만든 상명대학교 
 
 신청은 https://forms.gle/WZDwgCThnRGXiMwy9 에서 하실 수 있습니다.
 
-라이센스 등 기타 설명은 kauNotifier를 참조해 주시기 바랍니다.
+라이센스 등 기타 설명은 [kauNotifier](https://github.com/phoi5675/kauNotifier)를 참조해 주시기 바랍니다.
