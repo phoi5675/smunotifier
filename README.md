@@ -1,3 +1,8 @@
+# deprecated
+통합 공지 프로그램 "univNotifier" 로 병합되었습니다.
+
+https://github.com/phoi5675/univNotifier
+
 # smunotifier
 https://github.com/phoi5675/kauNotifier 를 베이스로 만든 상명대학교 공지 시스템입니다
 
